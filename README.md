@@ -1,4 +1,4 @@
 # ProxyTool
 
 ## BASH
-![Proxy-Tool](https://imgur.com/a/hr2Xcny.png)
+![Proxy-Tool](https://i.imgur.com/wSGvsmp.jpg)
