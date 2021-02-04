@@ -1,0 +1,15 @@
+{
+  "name": "proxy-tool",
+  "version": "1.0.0",
+  "description": "Proxy Sender",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "START.bat"
+  },
+  "author": "whm",
+  "license": "ISC"
+}
